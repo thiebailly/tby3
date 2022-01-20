@@ -1,6 +1,5 @@
 <php
 
 Code de ouf qui deporte le controle de token
-ahh ouais c 'est ouf
-
+j'ai froid'
 fin du code >
