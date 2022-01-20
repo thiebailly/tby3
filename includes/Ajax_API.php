@@ -40,4 +40,9 @@ class Ajax_API extends API_Config {
 	{
 		alert (' hum c''est trop bon ');
 	}
+	
+		public function rougauilTest()
+	{
+		alert (' hum c''est trop bon ');
+	}
 }
