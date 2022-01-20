@@ -35,4 +35,9 @@ class Ajax_API extends API_Config {
             return json_encode(['data' => null, 'error' => 'Bad table']);
         }
     }
+	
+	public function rougauilSemoule()
+	{
+		alert (' hum c''est trop bon ');
+	}
 }
