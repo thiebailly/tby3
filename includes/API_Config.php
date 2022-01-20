@@ -39,6 +39,11 @@ class API_Config {
         }
     }
 
+    public function getRecetteRougail($table)
+    {
+        echo "Il est où le riz !! Hérétique !!!!!!";
+    }
+
     public function getAllTable($table)
     {
         $db = $this->db();
